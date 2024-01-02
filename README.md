@@ -1,6 +1,6 @@
 # Resume & Portfolio
 
-## Summary
+##  Summary
 <p align="justify"> Welcome to my resume! This file contains my journey at work and education, including a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
 
 ## About Me
@@ -52,15 +52,18 @@ My main goal is to take my career beyond the limits, constantly learning in a co
 ## Experience
 **Making Sense LLC — Senior product analyst (_May 2020 - Present_)**
 <p align="justify"> Led product strategy, backlog, and roadmap management, collaborating with different clients/industries to define MVPs. Applied continuous discovery to identify business opportunities. Conducted product analytics activities to define key product metrics, enabling data-driven decision-making and facilitating iterative improvements.
-Achievement example: Pioneered a Proof of Concept (PoC) initiative leveraging ChatGPT (AI) to interpret users' natural language. This innovative approach reduced command errors by 80%. </p>
+
+  _Achievement example_: Pioneered a Proof of Concept (PoC) initiative leveraging ChatGPT (AI) to interpret users' natural language. This innovative approach reduced command errors by 80%. </p>
 
 **Despegar.com — Senior product owner (_March 2019 - May 2020_)**
 <p align="justify"> Defined and measured business KPIs on suppliers’ destination services, activities, transfers, tours, and cruises products. Led initiatives for valuable product insights, enhancing user experience and satisfaction through API connections.
-Achievement example: Spearheaded an initiative that resulted in a 56% increase in product sales within the first week of production. </p>
+
+  _Achievement example_: Spearheaded an initiative that resulted in a 56% increase in product sales within the first week of production. </p>
 
 **Globant, for Southwest Airlines — Senior business analyst (_July 2016 - March 2019_)**
 <p align="justify"> Managed product backlog, prioritization, and requirement specifications. Moderated SCRUM ceremonies.
-Achievement example: Contributed to the successful processing of over 1 million rows per day from a table in a cloud architecture project, showcasing adeptness in collaborating with cross-functional teams and understanding cloud technologies for efficient data handling. </p>
+
+  _Achievement example_: Contributed to the successful processing of over 1 million rows per day from a table in a cloud architecture project, showcasing adeptness in collaborating with cross-functional teams and understanding cloud technologies for efficient data handling. </p>
 
 **Fiat Chrysler Automobiles — Quality and methods analyst (_July 2014 - July 2016_)**
 <p align="justify"> Defined quality indicators for the ICT area, aligned ICT processes with ITIL practices. </p>
@@ -86,7 +89,10 @@ Achievement example: Contributed to the successful processing of over 1 million 
 - Portuguese (elementary)
 
 ## Hobbies
-🎸 🛫 👨🏼‍🍳 🏃🏼
+- 🎸 Music
+- 🛫 Travel
+- 👨🏼‍🍳 Cooking
+- 🏃🏼 Running
 
 ## Contact Information
 - LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
