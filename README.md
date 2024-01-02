@@ -1,4 +1,4 @@
-# Lucas Boczkowski's Data Science Portfolio
+# 🚀 Lucas Boczkowski's Data Science Portfolio
 
 Welcome to my data science portfolio! This repository contains a collection of projects I've worked on, showcasing my skills and expertise in the field of data science. Also, it contains a summary of my complete jov history.
 
@@ -19,6 +19,11 @@ November 2023
 Completed an intensive data science course at CoderHouse Institute.
 Achieved the top position in the class.
 Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
+
+| **Degree** | **Institution** | **Year** |
+|------------|------------------|----------|
+| Information Systems Engineer | Universidad Tecnológica Nacional | 2005 - 2011 |
+| Data Science | Coderhouse | November 2023 |
 
 
 ## Projects
