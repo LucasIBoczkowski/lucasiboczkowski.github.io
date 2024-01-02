@@ -6,7 +6,7 @@
 <p align="justify"> Passionate IT professional with over 13 years of experience in managing the end-to-end product development process across diverse industries, including e-commerce, travel, education, construction, agriculture, and automotive.
 My main goal is to take my career beyond the limits, constantly learning in a collaborative way, in order to build products that really matter. </p>
 
-## Education 
+## 🎓 Education 
 - Universidad Tecnológica Nacional — Information systems engineer
   - 2005 - 2011
   - Facultad Regional Córdoba.
@@ -74,11 +74,11 @@ Achievement example: Contributed to the successful processing of over 1 million 
 - Software engineering
 - Agile frameworks
 - Tracking/Collaboration tools
+
 ## Languages
 - Spanish (native)
 - English (business proficiency)
 - Portuguese (elementary)
-
 
 ## Contact Information
 - LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
