@@ -1,24 +1,26 @@
 # 🚀 Lucas Boczkowski's Data Science Portfolio
 
+<div style="text-align: justify;">
 Welcome to my data science portfolio! This repository contains a collection of projects I've worked on, showcasing my skills and expertise in the field of data science. Also, it contains a summary of my complete jov history.
+</div>
 
 ## About Me
-
+<div style="text-align: justify;">
 Passionate IT professional with over 13 years of experience in managing the end-to-end product development process across diverse industries, including e-commerce, travel, education, construction, agriculture, and automotive.
 My main goal is to take my career beyond the limits, constantly learning in a collaborative way, in order to build products that really matter.
-
+</div>
 ## Education
 
 - Universidad Tecnológica Nacional — Information systems engineer
-2005 - 2011
-Facultad Regional Córdoba.
-Grade point average: 8.44
+- - 2005 - 2011
+- - Facultad Regional Córdoba.
+- - Grade point average: 8.44
 
 - Coderhouse — Data Science
-November 2023
-Completed an intensive data science course at CoderHouse Institute.
-Achieved the top position in the class.
-Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
+- - November 2023
+- - Completed an intensive data science course at CoderHouse Institute.
+- - Achieved the top position in the class.
+- - Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
 
 ## Projects
 
