@@ -11,7 +11,7 @@ My main goal is to take my career beyond the limits, constantly learning in a co
 ## Data science projects 
 **International soccer matches** (_December 2023_)
 
-[Publication](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
+🚀 [See my project](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
 <p align="justify"> This project explores international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline. The goal is to showcase not only the insights gained but also the application of these tools in a real-world context. </p>
 
 # Resume
