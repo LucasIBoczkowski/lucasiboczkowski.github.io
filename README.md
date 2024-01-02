@@ -45,34 +45,27 @@ My main goal is to take my career beyond the limits, constantly learning in a co
 
 ## Experience
 
-### **Making Sense LLC
-— Senior product analyst**
-- May 2020 - Present
+**Making Sense LLC — Senior product analyst (_May 2020 - Present_)**
 <div style="text-align: justify;">
 Led product strategy, backlog, and roadmap management, collaborating with different clients/industries to define MVPs. Applied continuous discovery to identify business opportunities. Conducted product analytics activities to define key product metrics, enabling data-driven decision-making and facilitating iterative improvements.
 Achievement example: Pioneered a Proof of Concept (PoC) initiative leveraging ChatGPT (AI) to interpret users' natural language. This innovative approach reduced command errors by 80%.
 </div>
 
-### **Despegar.com — Senior product owner**
-March 2019 - May 2020
+**Despegar.com — Senior product owner (_March 2019 - May 2020_)**
 Defined and measured business KPIs on suppliers’ destination services, activities, transfers, tours, and cruises products. Led initiatives for valuable product insights, enhancing user experience and satisfaction through API connections.
 Achievement example: Spearheaded an initiative that resulted in a 56% increase in product sales within the first week of production.
 
-### **Globant, for Southwest Airlines — Senior business analyst**
-July 2016 - March 2019
+**Globant, for Southwest Airlines — Senior business analyst (_July 2016 - March 2019_)**
 Managed product backlog, prioritization, and requirement specifications. Moderated SCRUM ceremonies.
 Achievement example: Contributed to the successful processing of over 1 million rows per day from a table in a cloud architecture project, showcasing adeptness in collaborating with cross-functional teams and understanding cloud technologies for efficient data handling.
 
-### **Fiat Chrysler Automobiles — Quality and methods analyst**
-July 2014 - July 2016
+**Fiat Chrysler Automobiles — Quality and methods analyst (_July 2014 - July 2016_)**
 Defined quality indicators for the ICT area, aligned ICT processes with ITIL practices.
 
-### **Universidad Tecnológica Nacional — Teaching assistant**
-March 2012 - March 2016
+**Universidad Tecnológica Nacional — Teaching assistant (_March 2012 - March 2016_)**
 Facultad Regional Córdoba. Subject: Software Engineering.
 
-### **JM & Asociados — IT consultant**
-May 2009 - July 2014
+**JM & Asociados — IT consultant(_May 2009 - July 2014_)**
 IT process, quality and testing consultant specialized in software quality and software engineering, in several IT projects. Atlassian administrator.
 
 ## Skills
