@@ -97,7 +97,8 @@ _Achievement example_: Contributed to the successful processing of over 1 millio
 - 🏃🏼 Running
 
 ## Contact Information
-- LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
-- Email: [boczkowskilucas@gmail.com]
+- **Phone**: [(+54) 9 351 3543654](tel:+543513543654)
+- **LinkedIn**: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
+- **Email:**: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
 
 <p align="justify"> Feel free to reach out for any questions, collaboration opportunities, or just to connect! </p>
