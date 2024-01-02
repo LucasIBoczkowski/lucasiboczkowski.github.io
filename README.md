@@ -23,9 +23,7 @@ Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
 
 ## Projects
 
-Here's a list of projects included in this portfolio:
-
-1. [Project 1: International soccer matches](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
+1. [International soccer matches](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
    - Study of the international soccer matches, focus on understanding a team's home strength for result prediction.
    - Pandas, matplotlib, Seaborn, sklearn, pipeline
    - [README.md](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/README.md)
