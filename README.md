@@ -20,7 +20,8 @@ My main goal is to take my career beyond the limits, constantly learning in a co
   - Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
 
 ## Data science projects 
-1. [International soccer matches](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb (_December 2023_)
+1. [International soccer matches](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb
+(_December 2023_)
 <p align="justify"> This project explores international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline. The goal is to showcase not only the insights gained but also the application of these tools in a real-world context. </p>
 
 ## Main courses and certifications
