@@ -1,6 +1,6 @@
 # Summary
 
-<p align="justify"> Welcome to my resume! This file contains my journey at work and education, including a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
+<p align="justify"> Welcome to my resume! This file contains my journey at work and education, including first a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
 
 ## About Me
 <p align="justify"> Passionate IT professional with over 13 years of experience in managing the end-to-end product development process across diverse industries, including e-commerce, travel, education, construction, agriculture, and automotive.
