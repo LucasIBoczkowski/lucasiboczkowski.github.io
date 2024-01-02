@@ -25,7 +25,7 @@ Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
 
 Here's a list of projects included in this portfolio:
 
-1. [Project 1: Intenrational soccer matches](project1/)
+1. [Project 1: International soccer matches](project1/)
    - Study of the international soccer matches, focus on understanding a team's home strength for result prediction.
    - Pandas, matplotlib, Seaborn, sklearn, pipeline
    - [README.md](Readmefile)
