@@ -1,11 +1,20 @@
-# Resume & Portfolio
+# Summary
 
-##  Summary
 <p align="justify"> Welcome to my resume! This file contains my journey at work and education, including a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
 
 ## About Me
 <p align="justify"> Passionate IT professional with over 13 years of experience in managing the end-to-end product development process across diverse industries, including e-commerce, travel, education, construction, agriculture, and automotive.
 My main goal is to take my career beyond the limits, constantly learning in a collaborative way, in order to build products that really matter. </p>
+
+# Portfolio
+
+## Data science projects 
+**International soccer matches** (_December 2023_)
+
+[Publication](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
+<p align="justify"> This project explores international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline. The goal is to showcase not only the insights gained but also the application of these tools in a real-world context. </p>
+
+# Resume
 
 ## Education, Main Courses, and Certifications
 - **Universidad Tecnológica Nacional — Information Systems Engineer**
@@ -41,13 +50,6 @@ My main goal is to take my career beyond the limits, constantly learning in a co
 
 - **Scrum Alliance**
   - Certified Scrum Master - January 2017
-
-
-## Data science projects 
-**International soccer matches** (_December 2023_)
-
-[Publication](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
-<p align="justify"> This project explores international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline. The goal is to showcase not only the insights gained but also the application of these tools in a real-world context. </p>
 
 ## Experience
 **Making Sense LLC — Senior product analyst (_May 2020 - Present_)**
