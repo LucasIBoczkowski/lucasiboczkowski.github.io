@@ -54,17 +54,13 @@ Achievement example: Contributed to the successful processing of over 1 million 
 <p align="justify"> IT process, quality and testing consultant specialized in software quality and software engineering, in several IT projects. Atlassian administrator. </p>
 
 ## Skills
-<p align="justify"> 
-- Analytical Skills: Creative problem solving, Data Driven mindset, Critical thinking
-- Communication Skills: Strong communication, Collaboration and teamwork
-- Personal Traits: Motivation, Constant Learning, Reliability
-</p>
+- <p align="justify"> Analytical Skills: Creative problem solving, Data Driven mindset, Critical thinking. </p>
+- <p align="justify"> Communication Skills: Strong communication, Collaboration and teamwork. </p>
+- <p align="justify"> Personal Traits: Motivation, Constant Learning, Reliability. </p>
 
 ## Expertise
-<p align="justify"> 
-- Product Management, Product Discovery, Product Analytics
-- Software Engineering, Agile Frameworks, Tracking/Collaboration Tools
-</p>
+- <p align="justify"> Product Management, Product Discovery, Product Analytics. </p>
+- <p align="justify"> Software Engineering, Agile Frameworks, Tracking/Collaboration Tools. </p>
 
 ## Languages
 - Spanish (native)
@@ -76,7 +72,6 @@ Achievement example: Contributed to the successful processing of over 1 million 
 
 ## Contact Information
 - LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
-- LinkedIn: [![LinkedIn](<LinkedIn Icon Link>)](https://www.linkedin.com/in/lucasboczkowski/)
 - Email: [boczkowskilucas@gmail.com]
 
 <p align="justify"> Feel free to reach out for any questions, collaboration opportunities, or just to connect! </p>
