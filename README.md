@@ -72,6 +72,9 @@ Achievement example: Contributed to the successful processing of over 1 million 
 - English (business proficiency)
 - Portuguese (elementary)
 
+## Hobbies
+🎸 🛫 👨🏼‍🍳 🏃🏼
+
 ## Contact Information
 - LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
 - Email: boczkowskilucas@gmail.com
