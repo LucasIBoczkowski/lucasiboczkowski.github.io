@@ -20,12 +20,6 @@ Completed an intensive data science course at CoderHouse Institute.
 Achieved the top position in the class.
 Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
 
-| **Degree** | **Institution** | **Year** |
-|------------|------------------|----------|
-| Information Systems Engineer | Universidad Tecnológica Nacional | 2005 - 2011 |
-| Data Science | Coderhouse | November 2023 |
-
-
 ## Projects
 
 1. [International soccer matches](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
@@ -102,7 +96,7 @@ IT process, quality and testing consultant specialized in software quality and s
 
 ## Contact Information
 
-- LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
-- Email: boczkowskilucas@gmail.com
+- LinkedIn: [![LinkedIn](<LinkedIn Icon Link>)](https://www.linkedin.com/in/lucasboczkowski/)
+- Email: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
