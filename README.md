@@ -5,21 +5,23 @@ Welcome to my data science portfolio! This repository contains a collection of p
 </div>
 
 ## About Me
+
 <div style="text-align: justify;">
 Passionate IT professional with over 13 years of experience in managing the end-to-end product development process across diverse industries, including e-commerce, travel, education, construction, agriculture, and automotive.
 My main goal is to take my career beyond the limits, constantly learning in a collaborative way, in order to build products that really matter.
 </div>
+
 ## Education
 
 - Universidad Tecnológica Nacional — Information systems engineer
-- - 2005 - 2011
-- - Facultad Regional Córdoba.
-- - Grade point average: 8.44
+  - 2005 - 2011
+  - Facultad Regional Córdoba.
+  - Grade point average: 8.44
 
 - Coderhouse — Data Science
-- - November 2023
-- - Completed an intensive data science course at CoderHouse Institute.
-- - Achieved the top position in the class.
+  - November 2023
+  - Completed an intensive data science course at CoderHouse Institute.
+  - Achieved the top position in the class.
 - - Relevant coursework: Python, Numpy, Pandas, SQL, Machine Learning models
 
 ## Projects
@@ -43,10 +45,13 @@ My main goal is to take my career beyond the limits, constantly learning in a co
 
 ## Experience
 
-### **Making Sense LLC — Senior product analyst**
-May 2020 - Present
+### **Making Sense LLC
+— Senior product analyst**
+- May 2020 - Present
+<div style="text-align: justify;">
 Led product strategy, backlog, and roadmap management, collaborating with different clients/industries to define MVPs. Applied continuous discovery to identify business opportunities. Conducted product analytics activities to define key product metrics, enabling data-driven decision-making and facilitating iterative improvements.
 Achievement example: Pioneered a Proof of Concept (PoC) initiative leveraging ChatGPT (AI) to interpret users' natural language. This innovative approach reduced command errors by 80%.
+</div>
 
 ### **Despegar.com — Senior product owner**
 March 2019 - May 2020
