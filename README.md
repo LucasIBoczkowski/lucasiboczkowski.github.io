@@ -96,7 +96,7 @@ IT process, quality and testing consultant specialized in software quality and s
 
 ## Contact Information
 
-- LinkedIn: [![LinkedIn]](https://www.linkedin.com/in/lucasboczkowski/)
-- Email: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
+- LinkedIn: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
+- Email: boczkowskilucas@gmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
