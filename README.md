@@ -1,4 +1,4 @@
-# 🚀 Lucas Boczkowski's Data Science Portfolio
+# 🚀 Lucas Boczkowski's Resume & Portfolio
 
 ## Summary
 <p align="justify"> Welcome to my resume! This file contains my journey at work and education, including a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
