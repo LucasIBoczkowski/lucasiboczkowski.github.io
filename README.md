@@ -55,10 +55,10 @@ Achievement example: Spearheaded an initiative that resulted in a 56% increase i
 Achievement example: Contributed to the successful processing of over 1 million rows per day from a table in a cloud architecture project, showcasing adeptness in collaborating with cross-functional teams and understanding cloud technologies for efficient data handling. </p>
 
 **Fiat Chrysler Automobiles — Quality and methods analyst (_July 2014 - July 2016_)**
-Defined quality indicators for the ICT area, aligned ICT processes with ITIL practices.
+<p align="justify"> Defined quality indicators for the ICT area, aligned ICT processes with ITIL practices. </p>
 
 **Universidad Tecnológica Nacional — Teaching assistant (_March 2012 - March 2016_)**
-Facultad Regional Córdoba. Subject: Software Engineering.
+<p align="justify"> Facultad Regional Córdoba. Subject: Software Engineering. </p>
 
 **JM & Asociados — IT consultant(_May 2009 - July 2014_)**
 <p align="justify"> IT process, quality and testing consultant specialized in software quality and software engineering, in several IT projects. Atlassian administrator. </p>
