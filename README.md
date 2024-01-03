@@ -97,6 +97,7 @@ _Achievement example_: Contributed to the successful processing of over 1 millio
 - 🏃🏼 Running
 
 ## Contact Information
+- **Córdoba - Argentina**
 - **Phone**: [(+54) 9 351 3543654](tel:+543513543654)
 - **LinkedIn**: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
 - **Email:**: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
