@@ -1,4 +1,4 @@
-# Contact Information
+## Contact Information
 - **Córdoba - Argentina**
 - **Phone**: [(+54) 9 351 3543654](tel:+543513543654)
 - **LinkedIn**: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
