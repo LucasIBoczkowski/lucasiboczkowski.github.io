@@ -1,5 +1,10 @@
-# Summary
+# Contact Information
+- **Córdoba - Argentina**
+- **Phone**: [(+54) 9 351 3543654](tel:+543513543654)
+- **LinkedIn**: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
+- **Email:**: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
 
+# Summary
 <p align="justify"> Welcome to my resume! This file contains my journey at work and education, including first a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
 
 ## About Me
@@ -7,7 +12,6 @@
 My main goal is to take my career beyond the limits, constantly learning in a collaborative way, in order to build products that really matter. </p>
 
 # Portfolio
-
 ## Data science projects 
 **International soccer matches** (_December 2023_)
 
@@ -15,7 +19,6 @@ My main goal is to take my career beyond the limits, constantly learning in a co
 <p align="justify"> This project explores international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline. The goal is to showcase not only the insights gained but also the application of these tools in a real-world context. </p>
 
 # Resume
-
 ## Education, Main Courses, and Certifications
 - **Universidad Tecnológica Nacional — Information Systems Engineer**
   - 2005 - 2011
@@ -95,11 +98,5 @@ _Achievement example_: Contributed to the successful processing of over 1 millio
 - 🛫 Travel
 - 👨🏼‍🍳 Cooking
 - 🏃🏼 Running
-
-## Contact Information
-- **Córdoba - Argentina**
-- **Phone**: [(+54) 9 351 3543654](tel:+543513543654)
-- **LinkedIn**: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
-- **Email:**: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
 
 <p align="justify"> Feel free to reach out for any questions, collaboration opportunities, or just to connect! </p>
