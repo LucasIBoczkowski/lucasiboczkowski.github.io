@@ -2,7 +2,7 @@
 - **Córdoba - Argentina**
 - **Phone**: [(+54) 9 351 3543654](tel:+543513543654)
 - **LinkedIn**: [Lucas Boczkowski](https://www.linkedin.com/in/lucasboczkowski/)
-- **Email:**: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
+- **Email**: [boczkowskilucas@gmail.com](mailto:boczkowskilucas@gmail.com)
 
 # Summary
 <p align="justify"> Welcome to my resume! This file contains my journey at work and education, including first a repository with the collection of data science projects I've worked on, showcasing my skills and expertise in the field of data science. </p>
