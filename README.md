@@ -12,11 +12,24 @@
 My main goal is to take my career beyond the limits, constantly learning in a collaborative way, in order to build products that really matter. </p>
 
 # Portfolio
-## Data science projects 
-**International soccer matches** (_December 2023_)
+## Data Analytics projects 
+**Customer Insights and Sales Analysis Dashboard** (_July 2024_)
 
-🚀 [See my project](https://github.com/LucasIBoczkowski/lucasiboczkowski.github.io/blob/main/International%20Soccer%20Matches/International_soccer_matches_Lucas_Boczkowski.ipynb)
+🚀 [See my project](https://github.com/LucasIBoczkowski/Portfolio/tree/main/Customer%20Insights%20and%20Sales%20Analysis%20Dashboard)
+<p align="justify"> This project involves analyzing customer insights and sales data to drive business decisions. The analysis is performed using Power BI Service and includes various data processing and visualization techniques. </p>
+
+## Data Science projects 
+**International soccer matches** (_August 2024_)
+
+🚀 [See my project](https://github.com/LucasIBoczkowski/Portfolio/tree/main/International%20Soccer%20Matches)
 <p align="justify"> This project explores international soccer matches with a focus on understanding a team's home strength for result prediction. The analysis involves the use of various data science libraries, including Pandas, Matplotlib, Seaborn, scikit-learn, and pipeline. The goal is to showcase not only the insights gained but also the application of these tools in a real-world context. </p>
+
+## NLP (Natural Language Processing) projects 
+**Restaurant Reviews Analysis** (_August 2024_)
+
+🚀 [See my project](https://github.com/LucasIBoczkowski/Portfolio/tree/main/Restaurant%20Reviews%20Analysis)
+<p align="justify"> This project analyzes customer reviews from restaurants to extract sentiments and trends. It includes a collection of techniques for preprocessing text data, such as tokenization, stemming, and lemmatization. The goal is to showcase the application of Natural Language Processing (NLP) techniques to gain insights from textual data. </p>
+
 
 # Resume
 ## Education, Main Courses, and Certifications
@@ -24,6 +37,18 @@ My main goal is to take my career beyond the limits, constantly learning in a co
   - 2005 - 2011
   - Facultad Regional Córdoba.
   - Grade point average: 8.44
+
+- **Coderhouse — NLP & Deep Learning in Data Science**
+  - August 2024
+  - Completed an intensive NLP and Deep Learning course at CoderHouse Institute.
+  - Achieved the top position in the class.
+  - Relevant coursework: Python, NLTK, spaCy, TensorFlow, PyTorch
+
+- **Coderhouse — Data Analytics**
+  - July 2024
+  - Completed an intensive data analytics course at CoderHouse Institute.
+  - Achieved the top position in the class.
+  - Relevant coursework: Database, SQL, Power BI
 
 - **Coderhouse — Data Science**
   - November 2023
